@@ -20,7 +20,7 @@ provider "aws" {
 Configuration to make a very simple sandbox VPC for a few instances
 
 For more details and options on the AWS vpc module, visit:
-https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/1.30.0
+https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/2.9.0
 
  */
 module "sandbox_vpc" {
